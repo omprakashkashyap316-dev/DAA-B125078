@@ -176,6 +176,6 @@ int main(){
         eigenvalue_eigenvector(arr[0][0],arr[0][1],arr[1][0],arr[1][1]);
     else
         printf("\nEigenvalue/eigenvector is implemented for 2x2 matrix only.\n");
-    tansposing(n, arr);
+    transposing(n, arr);
     return 0;
 }
